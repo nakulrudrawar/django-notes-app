@@ -1,0 +1,6 @@
+data/
+   *.dblwr
+   *.ibd
+   .git
+   .gitignore
+   README.md
